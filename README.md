@@ -16,6 +16,7 @@ A list of community-built React Native contributions.
 - [youmeyou](https://appsto.re/us/TxnM4.i)
 - [Lrn](https://itunes.apple.com/us/app/lrn-learn-to-code-at-your/id1019622677?mt=8)
 - [MinTrain](https://itunes.apple.com/us/app/mintrain/id1015739031?mt=8)
+- [Long Game](https://itunes.apple.com/us/app/apple-store/id1137804402?mt=8)
 
 ## Apps
 
